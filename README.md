@@ -12,5 +12,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoaoBatistaJr&show_icons=true&theme=onedark)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoaoBatistaJr&show_icons=true&theme=cobalt)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoaoBatistaJr&show_icons=true&theme=synthwave)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoaoBatistaJr&show_icons=true&theme=highcontrast)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoaoBatistaJr&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoaoBatistaJr&show_icons=true&theme=highcontrast)![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoaoBatistaJr&show_icons=true&theme=dracula)

@@ -8,6 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBatistaJr&layout=compact)](https://github.com/JoaoBatistaJr/github-readme-stats&theme=radical)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/JoaoBatistaJr/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoaoBatistaJr)](https://github.com/JoaoBatistaJr/github-readme-stats)
 
 

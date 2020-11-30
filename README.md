@@ -5,3 +5,4 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/JoaoBatistaJr03)
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=JoaoBatistaJr&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoaoBatistaJr&show_icons=true&theme=radical)

@@ -16,11 +16,11 @@
 <a href="https://linkedin.com/in/jbjunior03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jbjunior03" height="30" width="40" /></a>
 </p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&show_icons=true&locale=pt" alt="joaobatistajr" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobatistajr&show_icons=true&locale=en&layout=compact" alt="joaobatistajr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&show_icons=true&locale=en" alt="joaobatistajr" /></p>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaobatistajr" alt="joaobatistajr" /></a> </p>

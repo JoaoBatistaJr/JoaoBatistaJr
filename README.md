@@ -15,3 +15,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobatistajr&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaobatistajr" /></p>
 
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="joaobatistajr"><p>
+
+

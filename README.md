@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">I am a computer technician for the web at Instituto Metrópole Digital - IMD, at the Federal University of Rio Grande do Norte - UFRN. Currently graduating in Informatics from the IFRN. I am extremely passionate about everything that involves digital technologies.</h3>
+<h3 align="center">I am a computer technician for the web. Currently graduating in Informatics. I am extremely passionate about everything that involves digital technologies.</h3>
 
 - 📫 How to reach me **joaob.dev@gmail.com**
 

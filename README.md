@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">I am a computer technician for the web at Instituto Metrópole Digital - IMD, at the Federal University of Rio Grande do Norte - UFRN. Currently graduating in Informatics from the Federal Institute of Education, Science and Technology of Rio Grande do Norte - IFRN. I am extremely passionate about everything that involves digital technologies.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaobatistajr&label=Profile%20views&color=0e75b6&style=flat" alt="joaobatistajr" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/joaobatistajr03" target="blank"><img src="https://img.shields.io/twitter/follow/joaobatistajr03?logo=twitter&style=for-the-badge" alt="joaobatistajr03" /></a> </p>
+<h3 align="center">I am a computer technician for the web at Instituto Metrópole Digital - IMD, at the Federal University of Rio Grande do Norte - UFRN. Currently graduating in Informatics from the IFRN. I am extremely passionate about everything that involves digital technologies.</h3>
 
 - 📫 How to reach me **joaob.dev@gmail.com**
 

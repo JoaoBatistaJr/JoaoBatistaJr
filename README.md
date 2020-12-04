@@ -9,5 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBatistaJr&layout=compact&theme=radical)](https://github.com/JoaoBatistaJr/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joaobatistajr&theme=radical)](https://github.com/joaobatistajr/github-readme-stats)
+
+
 
 

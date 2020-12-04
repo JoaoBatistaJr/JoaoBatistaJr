@@ -10,13 +10,13 @@
 <a href="https://linkedin.com/in/jbjunior03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jbjunior03" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&show_icons=true&locale=en&theme=radical" alt="joaobatistajr" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&show_icons=true&locale=en&theme=radical" alt="joaobatistajr" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&show_icons=true&locale=en&theme=radical" alt="joaobatistajr" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobatistajr&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaobatistajr" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="joaobatistajr"><p>
-<p>&nbsp;<img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="joaobatistajr" /></p>
+<p>&nbsp;<img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" /></p>
 
 

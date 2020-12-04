@@ -9,8 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBatistaJr&layout=compact&theme=radical)](https://github.com/JoaoBatistaJr/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joaobatistajr)](https://github.com/joaobatistajr/github-readme-stats)
 
-
-
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
 

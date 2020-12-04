@@ -17,5 +17,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="joaobatistajr"><p>
+<p>&nbsp;<img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="joaobatistajr" /></p>
 
 

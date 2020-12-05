@@ -28,7 +28,7 @@
 <!--<a href="https://www.sqlite.org/index.html" target="blank"><img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />-->
 <a href="https://www.djangoproject.com" target="blank"><img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" />
 <!--<a href="https://flutter.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />-->
-<!--<a href="https://dart.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />-->
+<a href="https://dart.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="blank"><img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" />
 <a href="www.unity.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
 <!--<a href="https://www.typescriptlang.org" target="blank"><img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />-->

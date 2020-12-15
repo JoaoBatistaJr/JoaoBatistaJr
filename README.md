@@ -11,8 +11,8 @@
 <!--<a href="https://www.facebook.com/jbjunior03/" target="blank"><img align="center" src="	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> -->
 </p>
 
-<p><img align="justify" src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&show_icons=true&locale=en&theme=radical" alt="joaobatistajr" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobatistajr&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaobatistajr" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&show_icons=true&locale=en&theme=radical" alt="joaobatistajr" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobatistajr&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaobatistajr" /></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p>

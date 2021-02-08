@@ -10,9 +10,7 @@
 </p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&show_icons=true&locale=en&theme=radical" alt="joaobatistajr" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobatistajr&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaobatistajr" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=joaobatistajr&layout=compact" alt="joaobatistajr" /></p>
 

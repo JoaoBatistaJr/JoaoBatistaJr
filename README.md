@@ -12,11 +12,10 @@
 
 <p align="center"><a href="https://github.com/joaobatistajr/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&show_icons=true&locale=en&theme=radical" alt="joaobatistajr" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobatistajr&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaobatistajr" /></p>
+<p align="center"><a href="https://github.com/joaobatistajr/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobatistajr&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaobatistajr" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=joaobatistajr" alt="joaobatistajr" /></p>
+<p align="center"><a href="https://github.com/joaobatistajr/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=joaobatistajr&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaobatistajr" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

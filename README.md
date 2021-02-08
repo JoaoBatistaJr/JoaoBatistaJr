@@ -16,7 +16,7 @@
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=joaobatistajr&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaobatistajr" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joaobatistajr)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joaobatistajr)](https://github.com/joaobatistajr/github-readme-stats)
 
 
 

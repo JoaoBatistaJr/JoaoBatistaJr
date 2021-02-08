@@ -10,11 +10,11 @@
 </p>
 
 
-<a href="https://github.com/joaobatistajr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&show_icons=true&locale=en&theme=radical" alt="joaobatistajr" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&show_icons=true&locale=en&theme=radical" alt="joaobatistajr" /></p>
 
-<a href="https://github.com/joaobatistajr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobatistajr&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaobatistajr" />
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobatistajr&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaobatistajr" /></p>
 
-<a href="https://github.com/joaobatistajr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaobatistajr&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaobatistajr" />
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=joaobatistajr&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaobatistajr" /></p>
 
 
 

@@ -16,6 +16,9 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=joaobatistajr" alt="joaobatistajr" /></p>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">

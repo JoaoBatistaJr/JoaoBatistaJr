@@ -27,6 +27,6 @@
 <a href="https://www.djangoproject.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" />
 <a href="https://dart.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" />
-
+<hr>
 
 

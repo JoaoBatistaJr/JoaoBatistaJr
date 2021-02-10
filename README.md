@@ -1,4 +1,4 @@
-<h1 align="center">Olá,👋🏻 Seja meu nome é Júnior</h1>
+<h1 align="center">Olá,👋🏻 meu nome é João</h1>
 <h3 align="center">📚 Sou técnico em informática para internet pelo Instituo Metrópole Digital e atualmente estou cursando licenciatura em informática pelo IFRN.</h3>
 <hr>
 <h3 align="center">📬 Meus Contatos:</h3>

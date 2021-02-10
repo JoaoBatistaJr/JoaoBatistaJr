@@ -1,21 +1,22 @@
-### Olá, meu nome é João
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">I am a computer technician for the web. Currently graduating in Informatics. I am extremely passionate about everything that involves digital technologies.</h3>
-
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">Olá,👋🏻 Seja meu nome é Júnior</h1>
+<h3 align="center">📚 Sou técnico em informática para internet pelo Instituo Metrópole Digital e atualmente estou cursando licenciatura em informática pelo IFRN.</h3>
+<hr>
+<h3 align="center">📬 Meus Contatos:</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/jbjunior03" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jbjunior03"  /></a>
 <a href="joaob.dev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jbjunior03"  /></a>
 <a href="https://www.instagram.com/artesjbjunior/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
 </p>
+<hr>
 
-
+<h3 align="center">📌 Informações sobre minha conta GitHub:</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&show_icons=true&locale=en&theme=radical" alt="joaobatistajr" /></p>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobatistajr&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaobatistajr" /></p>
 
-<h3 align="center">Languages and Tools:</h3>
+<hr>
+<h3 align="center">🚀 Minhas Skills</h3>
 <p align="center">
 <a href="https://html.spec.whatwg.org/multipage/" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />

@@ -1,5 +1,6 @@
-![](https://komarev.com/ghpvc/?username=joaobatistajr&color=00
-## Olá! sou o Júnior Santos
+![](https://komarev.com/ghpvc/?username=joaobatistajr&color=00)
+
+## Olá! sou o Júnior Santos 
 
 - 💻 Desenvolvedor Front-End
 - 📚 Estudando JavaScript e UX/UI Design

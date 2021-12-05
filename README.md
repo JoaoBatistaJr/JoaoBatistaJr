@@ -1,7 +1,7 @@
 ## Olá! sou o Júnior Santos 
 
-- 💻 Desenvolvedor Front-End
-- 📚 Estudando JavaScript e UX/UI Design
+<!-- - 💻 Desenvolvedor Front-End -->
+- 📚 Estudando JavaScript e UX Design
 - 📜 Técnico em Informática para Internet
 
 <div>

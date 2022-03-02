@@ -1,4 +1,4 @@
-## Olá! sou o Júnior Santos 
+## Olá! me chamo João
 
 <!-- - 💻 Desenvolvedor Front-End -->
 - 📚 Estudando JavaScript e UI Design

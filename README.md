@@ -34,5 +34,5 @@
    <img aling="center" src="https://github.com/joaobatistajr/joaobatistajr/blob/output/github-contribution-grid-snake.svg">
     </div>
   <div>
-    <img align="center" height="20" width="110" src="https://profile-counter.glitch.me/joaobatistajr/count.svg" />
+    <img align="right" height="20" width="110" src="https://profile-counter.glitch.me/joaobatistajr/count.svg" />
   </div>

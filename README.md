@@ -8,7 +8,9 @@
   <a href="https://github.com/joaobatistajr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobatistajr&layout=compact&langs_count=7&theme=dark"/>
+    
 </div>
+  ![teste](https://activity-graph.herokuapp.com/graph?username=joaolima16&theme=react-dark)
   
   <div style="display: inline_block"><br>
   <img align="center" alt="JoaoB-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

@@ -32,7 +32,5 @@
   
   <div> 
    <img aling="center" src="https://github.com/joaobatistajr/joaobatistajr/blob/output/github-contribution-grid-snake.svg">
-    </div>
-  <div align="right">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=joaobatistajr.id&left_color=black&right_color=black"/>
-  </div>
+   </div>
+ 

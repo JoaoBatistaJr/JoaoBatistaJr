@@ -1,4 +1,4 @@
-## Olá! me chamo João
+## Olá! meu é João.
 
 <!-- - 💻 Desenvolvedor Front-End -->
 - 📚 Estudando JavaScript e UI Design

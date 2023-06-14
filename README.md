@@ -7,13 +7,14 @@
     <a href = "mailto:joaob.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/joaob.dev" target="_blank"><img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white /></a>
 </div>
-<div style="display: inline_block" align="center">
-  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px> </picture>
-</div>
+
 <br>
 
 <h3> Sobre mim</h3>
 <div>
+ <div>
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px> </picture>
+</div>
     <ul>
         <li>💻 Sou Desenvolvedor FrontEnd autodidata </li>
         <li>📚 Sou Técnico em Informática para Internet</li>
@@ -53,16 +54,16 @@
 <!--     <img align="center" alt="JoaoB-JAVA" height="48" width="48" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> -->
 <!--     <img align="center" alt="JoaoB-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 <!--     <img align="center" alt="JoaoB-PHP" height="48" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> -->
-<!--     <img align="center" alt="JoaoB-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+<!--     <img align="center" alt="JoaoB-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <!-- 
 </div>
 
 <br>
-
+<!-- 
    <h3> Troféus </h3>
    <div >
        <img src="https://github-profile-trophy.vercel.app/?username=joaobatistajr&theme=onedark&column=-1"/>
    </div>
-  
+  <!-- 
   <br>
   
   <h3> Snake </h3>

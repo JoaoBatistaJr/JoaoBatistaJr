@@ -1,3 +1,4 @@
+<p align="right"><a href="https://github.com/JoaoBatistaJr/JoaoBatistaJr/edit/master/README-en.md)"><img width="25" height="25" src="https://img.icons8.com/color/25/usa.png" alt="usa"/></p>
 <p align="center" >
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+sans&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=460&lines=Ol%C3%A1!+%F0%9F%91%8B%F0%9F%8F%BB+Boas+Vindas!;Sempre+aprendendo+coisas+novas.;Desenvolvedor+FrontEnd.;JavaScript+%7C+React.js+%7C+Vue.js+%7C+Next.js;HTML5+%7C+CSS3+%7C+SASS+%7C+Tailwind" alt="Typing SVG" /></a>
 </p>

@@ -27,47 +27,45 @@
  </div>
 
 <br>
-
-<h3>Github Stats</h3>
-<div style="display: inline_block" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaobatistajr&theme=react" />
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=JoaoBatistaJr&theme=react&show_icons=true&hide_border=true&count_private=true" /> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBatistaJr&theme=react&show_icons=true&hide_border=true&layout=compact" /> -->
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaobatistajr&theme=react" /> -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaobatistajr&theme=react" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaobatistajr&theme=react" />
-</div>
- 
-<br>
-
-  <h3> Minhas Skills </h3>
+<h3> Minhas Skills </h3>
   <div > <br>
     <img align="center" alt="JoaoB-HTML5" height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img align="center" alt="JoaoB-CSS3" height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img align="center" alt="JoaoB-JS" height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<!--     <img align="center" alt="JoaoB-ReactJS" height="40" width="40" src="https://img.icons8.com/officel/40/000000/react.png"> -->
-<!--     <img align="center" alt="JoaoB-VueJS" height="40" width="40" src="https://img.icons8.com/color/40/vue-js.png"/> -->
-<!--     <img align="center" alt="JoaoB-NextJS" height="40" width="40" src="https://img.icons8.com/color/48/000000/nextjs.png"/> -->
+    <img align="center" alt="JoaoB-ReactJS" height="40" width="40" src="https://img.icons8.com/officel/40/000000/react.png">
+    <img align="center" alt="JoaoB-VueJS" height="40" width="40" src="https://img.icons8.com/color/40/vue-js.png"/>
+    <img align="center" alt="JoaoB-NextJS" height="40" width="40" src="https://img.icons8.com/color/48/000000/nextjs.png"/>
     <img align="center" alt="JoaoB-SASS" height="40" width="40" src="https://img.icons8.com/color/48/000000/sass.png"/>
-<!--     <img align="center" alt="JoaoB-WP" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/wordpress.png"/> -->
-<!--     <img align="center" alt="JoaoB-npm" height="40" width="40" src="https://img.icons8.com/color/48/000000/npm.png"/> -->
-<!--     <img align="center" alt="JoaoB-Webpack" height="48" width="48" width="48" height="48" src="https://img.icons8.com/color/48/webpack.png"/> -->
-<!--     <img align="center" alt="JoaoB-JAVA" height="48" width="48" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> -->
-<!--     <img align="center" alt="JoaoB-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-<!--     <img align="center" alt="JoaoB-PHP" height="48" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> -->
-<!--     <img align="center" alt="JoaoB-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <!-- 
+    <img align="center" alt="JoaoB-WP" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+    <img align="center" alt="JoaoB-npm" height="40" width="40" src="https://img.icons8.com/color/48/000000/npm.png"/>
+    <img align="center" alt="JoaoB-Webpack" height="48" width="48" width="48" height="48" src="https://img.icons8.com/color/48/webpack.png"/>
+    <img align="center" alt="JoaoB-JAVA" height="48" width="48" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+    <img align="center" alt="JoaoB-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="JoaoB-PHP" height="48" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="JoaoB-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 </div>
 
 <br>
-<!-- 
+
+<h3>Github Stats</h3>
+<div align="center">
+<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaobatistajr&theme=react" /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=JoaoBatistaJr&theme=react&show_icons=true&hide_border=true&count_private=true" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBatistaJr&theme=react&show_icons=true&hide_border=true&layout=compact" /> -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaobatistajr&theme=react" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaobatistajr&theme=react" />
+</div>
+
+
+<br>
+
    <h3> Troféus </h3>
-   <div >
+   <div display="inline-block">
        <img src="https://github-profile-trophy.vercel.app/?username=joaobatistajr&theme=onedark&column=-1"/>
    </div>
-  <!-- 
-  <br>
+
   
   <h3> Snake </h3>
   <div > 
-   <img aling="center" src="https://github.com/joaobatistajr/joaobatistajr/blob/output/github-contribution-grid-snake.svg">
+    <img aling="center" src="https://github.com/joaobatistajr/joaobatistajr/blob/output/github-contribution-grid-snake.svg">
    </div>

@@ -8,13 +8,14 @@
     <a href="https://instagram.com/joaob.dev" target="_blank"><img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white /></a>
 </div>
 
+<div>
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px> </picture>
+</div>
+
 <br>
 
 <h3> Sobre mim</h3>
 <div>
- <div>
-  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px> </picture>
-</div>
     <ul>
         <li>💻 Sou Desenvolvedor FrontEnd autodidata </li>
         <li>📚 Sou Técnico em Informática para Internet</li>

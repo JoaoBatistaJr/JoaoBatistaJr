@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/jbjunior03/" style="target:_blank"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white /></a>
+    <a href="https://www.linkedin.com/in/jbjunior03/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white /></a>
     <a href = "mailto:joaob.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/joaob.dev" target="_blank"><img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white /></a>
 </div>

@@ -43,7 +43,8 @@
     <img align="center" alt="JoaoB-JAVA" height="48" width="48" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
     <img align="center" alt="JoaoB-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="JoaoB-PHP" height="48" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="JoaoB-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+    <img align="center" alt="JoaoB-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="JoaoB-figma" height="35" width="40" src="https://img.icons8.com/color/40/figma--v1.png" alt="figma--v1"/
 </div>
 
 <br>

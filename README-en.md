@@ -74,7 +74,7 @@
    </div>
 
   
-  <h3> Snake </h3>
+  <!--<h3> Snake </h3>
   <div > 
     <img aling="center" src="https://github.com/joaobatistajr/joaobatistajr/blob/output/github-contribution-grid-snake.svg">
-   </div>
+   </div>-->

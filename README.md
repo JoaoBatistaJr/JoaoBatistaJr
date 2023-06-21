@@ -69,7 +69,7 @@
    </div>
 
   
-  <h3> Snake </h3>
+  <!--<h3> Snake </h3>
   <div > 
-    <img aling="center" src="https://github.com/joaobatistajr/joaobatistajr/blob/output/github-contribution-grid-snake.svg">
-   </div>
+    <img aling="center" src="https://github.com/joaobatistajr/joaobatistajr/blob/output/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9">
+   </div>-->

@@ -45,12 +45,13 @@
 
 <h3>Github Stats</h3>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoaoBatistaJr&theme=react&show_icons=true&hide_border=true&border_radius=10&count_private=true" />
-    <img src="https://streak-stats.demolab.com?user=Joaobatistajr&theme=react&hide_border=true&border_radius=10&locale=en_USA" />
-    <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaobatistajr&theme=react&show_icons=true&hide_border=true&border_radius=10" />
-    <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaobatistajr&theme=react"/>
-    <img width="34.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBatistaJr&theme=react&show_icons=true&hide_border=true&layout=compact" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaobatistajr&theme=react&layout=" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaobatistajr&theme=react" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaobatistajr&theme=react&utcOffset=8" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaobatistajr&theme=react&show_icons=true&hide_border=true&border_radius=10" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaobatistajr&theme=react"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaobatistajr&theme=react" />
+<!--  <img src="https://streak-stats.demolab.com?user=Joaobatistajr&theme=react&hide_border=true&border_radius=10&locale=pt_BR" />
+ <img src="https://github-readme-stats.vercel.app/api?username=JoaoBatistaJr&theme=react&show_icons=true&hide_border=true&border_radius=10&count_private=true" /> -->
 </div>
 
 

@@ -58,7 +58,7 @@
 <br>
 
    <h3> Trophies </h3>
-   <div display="inline-block">
+   <div align="center">
        <img src="https://github-profile-trophy.vercel.app/?username=joaobatistajr&theme=onedark&column=-1"/>
    </div>
 

@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaobatistajr&color=405DE6" alt="Profile views" />
+
   <a href="https://github.com/JoaoBatistaJr/JoaoBatistaJr/blob/master/README.md"><img width="25" height="25" align="right" src="https://img.icons8.com/color/25/brazil.png" alt="brazil"/></p>
   
 <p align="center" >

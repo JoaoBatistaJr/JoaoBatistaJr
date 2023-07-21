@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaobatistajr&color=405DE6" alt="Profile views" /> 
 
  <a href="https://github.com/JoaoBatistaJr/JoaoBatistaJr/blob/master/README-en.md"><img width="25" height="25" align="right" src="https://img.icons8.com/color/25/usa.png" alt="usa"/>
 </p>
@@ -48,7 +47,8 @@
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaobatistajr&theme=react&show_icons=true&hide_border=true&border_radius=10" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaobatistajr&theme=react&utcOffset=8" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaobatistajr&theme=react"/>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaobatistajr&theme=react" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaobatistajr&theme=react&card_width=500px" />
+</a>
 </div>
 
 

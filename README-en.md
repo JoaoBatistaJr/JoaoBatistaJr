@@ -4,7 +4,9 @@
 <p align="center" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB+Welcome!;Frontend+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
-
+<!--<div align="center">
+    <a href="https://juniorsantos.vercel.app" target="_blank"><img src=https://img.shields.io/badge/Portfólio-161822?style=for-the-badge&logo=vercel&logoColor=white/></a>
+</div>-->
 <div align="center">
     <a href="https://juniorsantos.vercel.app" target="_blank"><img src=https://img.shields.io/badge/Portfólio-161822?style=for-the-badge&logo=vercel&logoColor=white/></a>
     <a href="https://www.linkedin.com/in/jbjunior03/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white /></a>

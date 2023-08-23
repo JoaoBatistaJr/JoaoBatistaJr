@@ -6,8 +6,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=Ol%C3%A1!+%F0%9F%91%8B%F0%9F%8F%BB+Boas+Vindas!;Desenvolvedor+Frontend;Sempre+aprendendo+coisas+novas" alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
+<!--<div align="center">
     <a href="https://juniorsantos.vercel.app" target="_blank"><img src=https://img.shields.io/badge/Portfólio-161822?style=for-the-badge&logo=vercel&logoColor=white/></a>
+</div>-->
+<div align="center">
     <a href="https://www.linkedin.com/in/jbjunior03/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white /></a>
     <a href = "mailto:joaob.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/joaob.dev" target="_blank"><img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white /></a>

@@ -35,7 +35,7 @@
 <h3> Minhas Skills & Ferramentas</h3>
  <p>
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,sass,tailwind,styledcomponents,bootstrap,webpack,babel,jquery,git,wordpress,php,django,py,java,selenium,mysql,cs,godot,figma,vscode,vercel,bash" />
+     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,sass,tailwind,styledcomponents,bootstrap,webpack,babel,jquery,git,wordpress,php,django,py,java,selenium,mysql,cs,godot,figma,vscode,vercel,bash,ai,ae" />
    </a>
  </p>
 
@@ -43,7 +43,7 @@
 
 <h3>Github Stats</h3>
 <div align="center">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaobatistajr&theme=react" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaobatistajr&theme=react&rank_icon=defaut&include_all_commits=true" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaobatistajr&theme=react&show_icons=true&hide_border=true&border_radius=10" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaobatistajr&theme=react&utcOffset=8" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaobatistajr&theme=react"/>

@@ -54,14 +54,6 @@
  <img src="https://github-readme-stats.vercel.app/api?username=JoaoBatistaJr&theme=react&show_icons=true&hide_border=true&border_radius=10&count_private=true" /> -->
 </div>
 
-
-<br>
-
-   <h3> Trophies </h3>
-   <div align="center">
-       <img src="https://github-profile-trophy.vercel.app/?username=joaobatistajr&theme=onedark&column=-1"/>
-   </div>
-
   
   <!--<h3> Snake </h3>
   <div > 

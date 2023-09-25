@@ -54,11 +54,3 @@
 </a>
 </div>
 
-
-<br>
-
-   <h3> Troféus </h3>
-   <div align="center">
-       <img src="https://github-profile-trophy.vercel.app/?username=joaobatistajr&theme=onedark&column=-1"/>
-   </div>
-

@@ -37,7 +37,7 @@
 <h3> Minhas Skills & Ferramentas</h3>
  <p>
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,sass,tailwind,styledcomponents,bootstrap,webpack,babel,jquery,git,wordpress,php,django,py,java,selenium,mysql,cs,godot,figma,vscode,vercel,bash,ai,ae" />
+     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,vite,sass,tailwind,styledcomponents,bootstrap,webpack,babel,jquery,git,wordpress,php,django,py,java,selenium,mysql,cs,godot,figma,vscode,vercel,bash,ai" />
    </a>
  </p>
 

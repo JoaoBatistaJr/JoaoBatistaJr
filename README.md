@@ -25,8 +25,8 @@
     <ul>
         <li>💻 Sou Desenvolvedor FrontEnd autodidata </li>
         <li>📚 Sou Técnico em Informática para Internet</li>
-        <li>📝 Tenho forte interesse sistemas web e mobile </li>
-        <li>🌱 Aprendendo JavaScript, ReactJS, VueJS e UI Design</li>
+        <li>📝 Tenho forte interesse sistemas web </li>
+        <li>🌱 Aprendendo JavaScript, ReactJS, NextJS e UI/UX Design</li>
         <li>⚡ Interessado em aplicações web voltadas para acessibilidade</li>
         <li>🎵 Amo Power metal e Eletrônica synthwave
     </ul>

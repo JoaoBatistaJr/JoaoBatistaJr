@@ -25,8 +25,8 @@
     <ul>
         <li>💻 I'm a self-taught Front End Developer </li>
         <li>📚 I'm an Internet Technician </li>
-        <li>📝 I have a strong interest in web and mobile systems </li>
-        <li>🌱 Learning JavaScript, ReactJS, VueJS and UI Design </li>
+        <li>📝 I have a strong interest in web systems </li>
+        <li>🌱 Learning JavaScript, ReactJS, NextJS and UI/UX Design </li>
         <li>⚡ Interested in accessibility-oriented web applications </li>
         <li>🎵 I love power metal and synthwave electronics </li>
     </ul>

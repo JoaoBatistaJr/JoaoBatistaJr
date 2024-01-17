@@ -18,16 +18,18 @@
 <br><br>
 
 <h3> Sobre mim</h3>
-<div>
-    <ul>
-        <li>💻 Sou Desenvolvedor FrontEnd autodidata </li>
-        <li>📚 Sou Técnico em Informática para Internet</li>
-        <li>📝 Tenho forte interesse sistemas web </li>
-        <li>🌱 Aprendendo JavaScript, ReactJS, NextJS e UI/UX Design</li>
-        <li>⚡ Interessado em aplicações web voltadas para acessibilidade</li>
-        <li>🎵 Amo Power metal e Eletrônica synthwave
-    </ul>
- </div>
+
+- 💻 Sou Desenvolvedor FrontEnd autodidata
+  
+- 📚 Sou Técnico em Informática para Internet
+  
+- 📝 Tenho forte interesse sistemas web
+  
+- 🌱 Aprendendo JavaScript, ReactJS, NextJS e UI/UX Design
+  
+- ⚡ Interessado em aplicações web voltadas para acessibilidade
+  
+- 🎵 Amo Power metal e Eletrônica synthwave
 
 <br>
 

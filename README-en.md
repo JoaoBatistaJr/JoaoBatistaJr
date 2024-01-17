@@ -14,23 +14,23 @@
 
 
 
-<div>
-  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px> </picture>
-</div>
-
-<br>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
 <h3> About me</h3>
-<div>
-    <ul>
-        <li>💻 I'm a self-taught Front End Developer </li>
-        <li>📚 I'm an Internet Technician </li>
-        <li>📝 I have a strong interest in web systems </li>
-        <li>🌱 Learning JavaScript, ReactJS, NextJS and UI/UX Design </li>
-        <li>⚡ Interested in accessibility-oriented web applications </li>
-        <li>🎵 I love power metal and synthwave electronics </li>
-    </ul>
- </div>
+
+- 💻 I'm a self-taught Front End Developer 
+
+- 📚 I'm an Internet Technician </li>
+
+- 📝 I have a strong interest in web systems
+
+- 🌱 Learning JavaScript, ReactJS, NextJS and UI/UX Design 
+
+- ⚡ Interested in accessibility-oriented web applications
+
+- 🎵 I love power metal and synthwave electronics
+
 
 <br>
 <h3> Skills & Tools </h3>

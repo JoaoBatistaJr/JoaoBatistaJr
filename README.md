@@ -50,8 +50,8 @@
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaobatistajr&theme=react&utcOffset=8" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaobatistajr&theme=react"/>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaobatistajr&theme=react&card_width=500px" />
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaobatistajr&repo=joaobatistajr&theme=react&card_width=250px&hide_border=true&border_radius=20" />
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaobatistajr&repo=portfolio&theme=react&card_width=250px&hide_border=true&border_radius=20" />
+<!--  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaobatistajr&repo=joaobatistajr&theme=react&card_width=250px&hide_border=true&border_radius=20" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaobatistajr&repo=portfolio&theme=react&card_width=250px&hide_border=true&border_radius=20" /> -->
 </a>
 </div>
 

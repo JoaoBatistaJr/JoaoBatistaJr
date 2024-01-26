@@ -34,7 +34,7 @@
 <br>
 
 <h3> Minhas Skills & Ferramentas</h3>
- <p>
+ <p align="center">
    <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,next,vue,sass,tailwind,styledcomponents,bootstrap,webpack,babel,jquery,git,wordpress,php,py,django,java,selenium,mysql,godot,figma,vscode,vercel,bash,ai,ps" />
    </a>

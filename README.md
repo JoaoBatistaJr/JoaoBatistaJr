@@ -74,7 +74,7 @@
 <h3>Github Stats</h3>
 
 <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&hide_border=true&show_icons=true&card_width=320&include_all_commits=false&count_private=true&line_height=26&text_color=ffffff&icon_color=ffffff&bg_color=0,405DE6,61DAFB&title_color=ffffff"> 
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobatistajr&hide=html&hide_border=true&card_width=356&card_height=200&layout=compact&langs_count=6&line_height=20&text_color=ffffff&icon_color=ffffff&bg_color=0,405DE6,61DAFB&title_color=ffffff">
+    <img width="480px" src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&hide_border=true&show_icons=true&card_width=320&include_all_commits=false&count_private=true&line_height=26&text_color=ffffff&icon_color=ffffff&bg_color=0,405DE6,61DAFB&title_color=ffffff"> 
+    <img width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobatistajr&hide=html&hide_border=true&card_width=356&card_height=200&layout=compact&langs_count=6&line_height=20&text_color=ffffff&icon_color=ffffff&bg_color=0,405DE6,61DAFB&title_color=ffffff">
     
 </div>

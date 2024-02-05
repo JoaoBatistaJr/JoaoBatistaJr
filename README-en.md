@@ -77,7 +77,10 @@
 <h3>Github Stats</h3>
 
 <div align="center">
-    <img width="420px" src="https://github-readme-stats.vercel.app/api?username=joaobatistajr&hide_border=true&show_icons=true&card_width=320&include_all_commits=false&count_private=true&line_height=26&text_color=ffffff&icon_color=ffffff&bg_color=0,405DE6,61DAFB&title_color=ffffff"> 
-    <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobatistajr&hide=html&hide_border=true&card_width=356&card_height=200&layout=compact&langs_count=6&line_height=20&text_color=ffffff&icon_color=ffffff&bg_color=0,405DE6,61DAFB&title_color=ffffff">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaobatistajr&theme=react&rank_icon=defaut&include_all_commits=true" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaobatistajr&theme=react&show_icons=true&hide_border=true" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaobatistajr&theme=react&utcOffset=8" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaobatistajr&theme=react"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaobatistajr&theme=react&card_width=500px" />
     
 </div>

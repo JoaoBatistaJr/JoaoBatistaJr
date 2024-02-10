@@ -66,8 +66,12 @@
     <img alt="Godot" src="https://img.shields.io/badge/godot-405DE6?style=for-the-badge&logo=godot-engine&logoColor=white">
     <img alt="Figma" src="https://img.shields.io/badge/figma-405DE6?style=for-the-badge&logo=figma&logoColor=white">
     <img alt="VSCode" src="https://img.shields.io/badge/vscode-405DE6?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-405DE6?style=for-the-badge&logo=markdown&logoColor=white">
     <img alt="Vercel" src="https://img.shields.io/badge/vercel-405DE6?style=for-the-badge&logo=vercel&logoColor=white">
+    <img alt="Jest" src="https://img.shields.io/badge/Jest-405DE6?style=for-the-badge&logo=jest&logoColor=white">
     <img alt="Bash" src="https://img.shields.io/badge/Bash-405DE6?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    <img alt="npm" src="https://img.shields.io/badge/NPM-405DE6?style=for-the-badge&logo=npm&logoColor=white">
+    <img alt="Obisidian" src="https://img.shields.io/badge/Obsidian-405DE6?style=for-the-badge&logo=obsidian&logoColor=white">
     <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-405DE6?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
     <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-405DE6?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
 </div>

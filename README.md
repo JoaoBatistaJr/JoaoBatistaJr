@@ -41,10 +41,12 @@
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-405DE6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img alt="Javascript" src="https://img.shields.io/badge/javascript-405DE6?style=for-the-badge&logo=javascript&logoColor=white">
     <img alt="Typescript" src="https://img.shields.io/badge/Typescript-405DE6?style=for-the-badge&logo=Typescript&logoColor=white">
+    <img alt="Node" src="https://img.shields.io/badge/Node-405DE6?style=for-the-badge&logo=node.js&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-405DE6?style=for-the-badge&logo=React&logoColor=white">
     <img alt="Vite" src="https://img.shields.io/badge/Vite-405DE6?style=for-the-badge&logo=Vite&logoColor=white">
     <img alt="Next" src="https://img.shields.io/badge/Next-405DE6?style=for-the-badge&logo=Nextdotjs&logoColor=white">
     <img alt="Vue" src="https://img.shields.io/badge/Vue-405DE6?style=for-the-badge&logo=vuedotjs&logoColor=white">
+    <img alt="Express" src="https://img.shields.io/badge/Express-405DE6?style=for-the-badge&logo=Express&logoColor=white">
     <img alt="Sass" src="https://img.shields.io/badge/sass-405DE6?style=for-the-badge&logo=sass&logoColor=white">
     <img alt="Tailwind" src="https://img.shields.io/badge/tailwind-405DE6?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img alt="Styledcomponents" src="https://img.shields.io/badge/styledcomponents-405DE6?style=for-the-badge&logo=styledcomponents&logoColor=white">

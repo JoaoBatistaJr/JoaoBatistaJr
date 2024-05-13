@@ -26,7 +26,7 @@
   
 - 📝 Tenho forte interesse sistemas web
   
-- 🌱 Aprendendo JavaScript, ReactJS, NextJS e UI/UX Design
+- 🌱 Aprendendo Typescript, NextJS e UI/UX Design
   
 - ⚡ Interessado em aplicações web voltadas para acessibilidade
   

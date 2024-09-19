@@ -7,7 +7,7 @@
 
 </div>
 <div align="center">
- <a href="https://juniorsantos.vercel.app" target="_blank"><img src=https://img.shields.io/badge/Portfólio-405DE6?style=for-the-badge&logo=vercel&logoColor=white/></a>
+ <a href="https://juniorsantos.dev.br" target="_blank"><img src=https://img.shields.io/badge/Portfólio-405DE6?style=for-the-badge&logo=vercel&logoColor=white/></a>
     <a href="https://www.linkedin.com/in/jbjunior03/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white /></a>
     <a href = "mailto:joaob.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-405DE6?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/joaob.dev" target="_blank"><img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white /></a>

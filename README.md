@@ -2,9 +2,9 @@
  <a href="https://github.com/JoaoBatistaJr/JoaoBatistaJr/blob/master/README-en.md"><img width="25" height="25" align="right" src="https://img.icons8.com/color/25/usa.png" alt="usa"/>
 </p>
 
-<p align="center" >
+<!--<p align="center" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=Ol%C3%A1!+%F0%9F%91%8B%F0%9F%8F%BB+Boas+Vindas!;Desenvolvedor+Frontend;Sempre+aprendendo+coisas+novas" alt="Typing SVG" /></a>
-</p>
+</p>-->
 
 </div>
 <div align="center">

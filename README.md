@@ -66,6 +66,7 @@
     <img alt="Jest" src="https://img.shields.io/badge/Jest-405DE6?style=for-the-badge&logo=jest&logoColor=white">
     <img alt="Bash" src="https://img.shields.io/badge/Bash-405DE6?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img alt="npm" src="https://img.shields.io/badge/NPM-405DE6?style=for-the-badge&logo=npm&logoColor=white">
+    <img alt="lua" src="https://img.shields.io/badge/LUA-405DE6?style=for-the-badge&logo=lua&logoColor=white">
     <img alt="Obisidian" src="https://img.shields.io/badge/Obsidian-405DE6?style=for-the-badge&logo=obsidian&logoColor=white">
     <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-405DE6?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
     <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-405DE6?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">

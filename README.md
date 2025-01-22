@@ -53,6 +53,7 @@
     <img alt="Git" src="https://img.shields.io/badge/git-405DE6?style=for-the-badge&logo=git&logoColor=white">
     <img alt="Wordpress" src="https://img.shields.io/badge/wordpress-405DE6?style=for-the-badge&logo=wordpress&logoColor=white">
     <img alt="PHP" src="https://img.shields.io/badge/php-405DE6?style=for-the-badge&logo=php&logoColor=white">
+    <img alt="Laravel" src="https://img.shields.io/badge/laravel-405DE6?style=for-the-badge&logo=laravel&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-405DE6?style=for-the-badge&logo=Python&logoColor=white">
     <img alt="Django" src="https://img.shields.io/badge/django-405DE6?style=for-the-badge&logo=django&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/java-405DE6?style=for-the-badge&logo=openjdk&logoColor=white">

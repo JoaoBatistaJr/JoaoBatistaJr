@@ -18,13 +18,13 @@
 
 - 💻 Sou Desenvolvedor FullStack autodidata
   
-- 📚 Sou Técnico em Informática para Internet
+- 📚 Técnico em Informática para Internet IMD/UFRN 
   
 - 📝 Tenho forte interesse sistemas web
   
-- 🌱 Aprendendo Typescript, NextJS e UI/UX Design
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas
   
-- ⚡ Interessado em aplicações web voltadas para acessibilidade
+- ⚡ Interessado em desenvolvimento de jogos digitais
   
 - 🎵 Amo Power metal e Eletrônica synthwave
 

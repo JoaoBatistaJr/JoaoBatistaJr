@@ -18,11 +18,13 @@
 
 - 💻 Sou Desenvolvedor FullStack autodidata
   
-- 📚 Técnico em Informática para Internet IMD/UFRN 
+- 📚 Técnico em Informática para Internet IMD/UFRN
+  
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas
   
 - 📝 Tenho forte interesse sistemas web
   
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
+- 🚀 Construindo meu portfólio com novos projetos
   
 - ⚡ Interessado em desenvolvimento de jogos digitais
   

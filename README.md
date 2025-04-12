@@ -8,6 +8,7 @@
     <a href="https://www.linkedin.com/in/jbjunior03/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white/></a>
     <a href = "mailto:joaob.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-405DE6?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/joaob.dev" target="_blank"><img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white /></a>
+    <a href="https://dev.to/joaobatistajr" target="_blank"><img src=	https://img.shields.io/badge/dev.to-0A0A0A?color=405DE6&style=for-the-badge&logo=devdotto&logoColor=white/></a>
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">

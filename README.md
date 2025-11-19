@@ -5,8 +5,7 @@
   </a>
 </p>
 
-<br>
-<div>
+
 <div align="center">
   <a href="https://juniorsantos.dev.br" target="_blank"><img src="https://img.shields.io/badge/Portfólio-405DE6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jbjunior03/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -15,13 +14,9 @@
   <a href="https://dev.to/joaobatistajr" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?color=405DE6&style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 </div>
 
-<br>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-
-
-
+<br><br>
 <h3>🧑‍💻 Sobre mim</h3>
 
 - 💻 Desenvolvedor de Software e Artista Plático 🎨
@@ -32,7 +27,7 @@
 - ⚡ Interesse paralelo em desenvolvimento de jogos digitais  
 - 🎵 Amante de Power Metal e eletrônica Synthwave 
 
-<br>
+
 </div>
 
 <br><br>

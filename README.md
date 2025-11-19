@@ -5,8 +5,8 @@
   </a>
 </p>
 
-
-
+<br>
+<div>
 <div align="center">
   <a href="https://juniorsantos.dev.br" target="_blank"><img src="https://img.shields.io/badge/Portfólio-405DE6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jbjunior03/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -15,25 +15,29 @@
   <a href="https://dev.to/joaobatistajr" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?color=405DE6&style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 </div>
 
+<br>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<br><br>
 
 
-## 🧑‍💻 Sobre mim
 
-- 💻 Desenvolvedor FullStack autodidata  
+<h3>🧑‍💻 Sobre mim</h3>
+
+- 💻 Desenvolvedor de Software e Artista Plático 🎨
 - 📚 Técnico em Informática para Internet – IMD/UFRN  
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas  
 - 📝 Forte interesse em desenvolvimento web  
-- 🚀 Construindo meu portfólio com novos projetos  
+- 🚀 Sempre atualizando meu portfólio com novos projetos  
 - ⚡ Interesse paralelo em desenvolvimento de jogos digitais  
-- 🎵 Amante de Power Metal e Synthwave  
+- 🎵 Amante de Power Metal e eletrônica Synthwave 
 
 <br>
+</div>
 
-## 🚀 Tecnologias do meu dia a dia
+<br><br>
+
+<h3>🚀 Tecnologias do meu dia a dia</h3>
 
 <div align="center">
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-405DE6?style=for-the-badge&logo=javascript&logoColor=white">
@@ -46,9 +50,9 @@
 </div>
 
 
-<br><br>
 
-## 🧰 Outras Tecnologias & Ferramentas
+
+<h3>🧰 Outras Tecnologias & Ferramentas</h3>
 
 <div align="center">
   <img alt="Vite" src="https://img.shields.io/badge/Vite-405DE6?style=for-the-badge&logo=Vite&logoColor=white">
@@ -88,7 +92,7 @@
 
 
 
-## 📊 Github Stats
+<h3>📊 Github Stats</h3>
 
 <div align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaobatistajr&theme=react&rank_icon=default&include_all_commits=true" />

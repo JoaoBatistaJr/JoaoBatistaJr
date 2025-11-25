@@ -16,70 +16,74 @@
 
 <br><br>
 
-<h3> About me</h3>
+<h3>🧑‍💻 About me</h3>
 
-- 💻 I'm a self-taught FullStack Developer 
-
-- 📚 I'm an Internet Technician </li>
-
-- 📝 I have a strong interest in web systems
-
-- 🌱 Learning JavaScript, ReactJS, NextJS and UI/UX Design 
-
-- ⚡ Interested in accessibility-oriented web applications
-
-- 🎵 I love power metal and synthwave electronics
+- 💻 Software Developer and Visual Artist 🎨
+- 📚 Computer Technician for Internet – IMD/UFRN
+- 🌱 Currently studying Systems Analysis and Development
+- 📝 Strong interest in web development
+- 🚀 Always updating my portfolio with new projects
+- ⚡ Parallel interest in digital game development
+- 🎵 Lover of Power Metal and Synthwave electronic music
 
 
 
 <br><br>
 
-<h3> Skills & Tools </h3>
+<h3>🚀 Technologies I use every day</h3>
 
 <div align="center">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-405DE6?style=for-the-badge&logo=HTML5&logoColor=white">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-405DE6?style=for-the-badge&logo=CSS3&logoColor=white">
-    <img alt="Javascript" src="https://img.shields.io/badge/javascript-405DE6?style=for-the-badge&logo=javascript&logoColor=white">
-    <img alt="Typescript" src="https://img.shields.io/badge/Typescript-405DE6?style=for-the-badge&logo=Typescript&logoColor=white">
-    <img alt="Node" src="https://img.shields.io/badge/Node-405DE6?style=for-the-badge&logo=node.js&logoColor=white">
-    <img alt="React" src="https://img.shields.io/badge/React-405DE6?style=for-the-badge&logo=React&logoColor=white">
-    <img alt="Vite" src="https://img.shields.io/badge/Vite-405DE6?style=for-the-badge&logo=Vite&logoColor=white">
-    <img alt="Next" src="https://img.shields.io/badge/Next-405DE6?style=for-the-badge&logo=Nextdotjs&logoColor=white">
-    <img alt="Vue" src="https://img.shields.io/badge/Vue-405DE6?style=for-the-badge&logo=vuedotjs&logoColor=white">
-    <img alt="Express" src="https://img.shields.io/badge/Express-405DE6?style=for-the-badge&logo=Express&logoColor=white">
-    <img alt="Sass" src="https://img.shields.io/badge/sass-405DE6?style=for-the-badge&logo=sass&logoColor=white">
-    <img alt="Tailwind" src="https://img.shields.io/badge/tailwind-405DE6?style=for-the-badge&logo=tailwindcss&logoColor=white">
-    <img alt="Styledcomponents" src="https://img.shields.io/badge/styledcomponents-405DE6?style=for-the-badge&logo=styledcomponents&logoColor=white">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-405DE6?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img alt="Webpack" src="https://img.shields.io/badge/webpack-405DE6?style=for-the-badge&logo=webpack&logoColor=white">
-    <img alt="Babel" src="https://img.shields.io/badge/babel-405DE6?style=for-the-badge&logo=babel&logoColor=white">
-    <img alt="Jquery" src="https://img.shields.io/badge/jquery-405DE6?style=for-the-badge&logo=jquery&logoColor=white">
-    <img alt="Git" src="https://img.shields.io/badge/git-405DE6?style=for-the-badge&logo=git&logoColor=white">
-    <img alt="Wordpress" src="https://img.shields.io/badge/wordpress-405DE6?style=for-the-badge&logo=wordpress&logoColor=white">
-    <img alt="PHP" src="https://img.shields.io/badge/php-405DE6?style=for-the-badge&logo=php&logoColor=white">
-    <img alt="Laravel" src="https://img.shields.io/badge/laravel-405DE6?style=for-the-badge&logo=laravel&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-405DE6?style=for-the-badge&logo=Python&logoColor=white">
-    <img alt="Django" src="https://img.shields.io/badge/django-405DE6?style=for-the-badge&logo=django&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/java-405DE6?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-405DE6?style=for-the-badge&logo=Selenium&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-405DE6?style=for-the-badge&logo=mysql&logoColor=white">
-    <img alt="Godot" src="https://img.shields.io/badge/godot-405DE6?style=for-the-badge&logo=godot-engine&logoColor=white">
-    <img alt="Figma" src="https://img.shields.io/badge/figma-405DE6?style=for-the-badge&logo=figma&logoColor=white">
-    <img alt="VSCode" src="https://img.shields.io/badge/vscode-405DE6?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-405DE6?style=for-the-badge&logo=markdown&logoColor=white">
-    <img alt="Vercel" src="https://img.shields.io/badge/vercel-405DE6?style=for-the-badge&logo=vercel&logoColor=white">
-    <img alt="Jest" src="https://img.shields.io/badge/Jest-405DE6?style=for-the-badge&logo=jest&logoColor=white">
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-405DE6?style=for-the-badge&logo=gnu-bash&logoColor=white">
-    <img alt="npm" src="https://img.shields.io/badge/NPM-405DE6?style=for-the-badge&logo=npm&logoColor=white">
-    <img alt="lua" src="https://img.shields.io/badge/LUA-405DE6?style=for-the-badge&logo=lua&logoColor=white">
-    <img alt="Obisidian" src="https://img.shields.io/badge/Obsidian-405DE6?style=for-the-badge&logo=obsidian&logoColor=white">
-    <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-405DE6?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-405DE6?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-405DE6?style=for-the-badge&logo=javascript&logoColor=white">
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-405DE6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-405DE6?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="Next" src="https://img.shields.io/badge/Next.js-405DE6?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img alt="Node" src="https://img.shields.io/badge/Node.js-405DE6?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-405DE6?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-405DE6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+
+
+
+<h3>🧰 Other Technologies and Tools</h3>
+
+<div align="center">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-405DE6?style=for-the-badge&logo=Vite&logoColor=white">
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-405DE6?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/Express-405DE6?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-405DE6?style=for-the-badge&logo=sass&logoColor=white">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-405DE6?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img alt="Styledcomponents" src="https://img.shields.io/badge/Styled_Components-405DE6?style=for-the-badge&logo=styledcomponents&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-405DE6?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-405DE6?style=for-the-badge&logo=webpack&logoColor=white">
+  <img alt="Babel" src="https://img.shields.io/badge/Babel-405DE6?style=for-the-badge&logo=babel&logoColor=white">
+  <img alt="Jquery" src="https://img.shields.io/badge/jQuery-405DE6?style=for-the-badge&logo=jquery&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-405DE6?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-405DE6?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-405DE6?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-405DE6?style=for-the-badge&logo=laravel&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-405DE6?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-405DE6?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-405DE6?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-405DE6?style=for-the-badge&logo=selenium&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-405DE6?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="Godot" src="https://img.shields.io/badge/Godot-405DE6?style=for-the-badge&logo=godot-engine&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-405DE6?style=for-the-badge&logo=figma&logoColor=white">
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-405DE6?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-405DE6?style=for-the-badge&logo=markdown&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-405DE6?style=for-the-badge&logo=vercel&logoColor=white">
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-405DE6?style=for-the-badge&logo=jest&logoColor=white">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-405DE6?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img alt="npm" src="https://img.shields.io/badge/NPM-405DE6?style=for-the-badge&logo=npm&logoColor=white">
+  <img alt="lua" src="https://img.shields.io/badge/LUA-405DE6?style=for-the-badge&logo=lua&logoColor=white">
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-405DE6?style=for-the-badge&logo=obsidian&logoColor=white">
+  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-405DE6?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-405DE6?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
 </div>
 
 <br>
 
-<h3>Github Stats</h3>
+<h3>📊 Github Stats</h3>
 
 <div align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaobatistajr&theme=react&rank_icon=defaut&include_all_commits=true" />

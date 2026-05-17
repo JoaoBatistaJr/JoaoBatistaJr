@@ -36,7 +36,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-# 👋 Sobre mim
+## 👋 Sobre mim
 
 💻 Front-End Developer focado em React, Next.js e TypeScript.
 
@@ -51,7 +51,7 @@ Gosto de desenvolver interfaces modernas, explorar novas tecnologias e transform
 
 <br>
 
-# 🚀 Stack principal
+## 🚀 Stack principal
 
 <div align="center">
 
@@ -71,7 +71,7 @@ Gosto de desenvolver interfaces modernas, explorar novas tecnologias e transform
 
 <br>
 
-# 🧰 Outras tecnologias e ferramentas
+## 🧰 Outras tecnologias e ferramentas
 
 <div align="center">
 
@@ -123,7 +123,7 @@ Gosto de desenvolver interfaces modernas, explorar novas tecnologias e transform
 
 <br>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
